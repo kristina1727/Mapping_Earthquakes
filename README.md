@@ -5,11 +5,11 @@ The purpose of this project is to visually show the differences between the magn
 
 ## Results
 
-Street View
+**Street View**
 ![Street View](https://user-images.githubusercontent.com/88597956/146655021-cc7b03c1-02d8-47cb-a2c0-3c641cb15cb2.png)
 
-Satellite View
+**Satellite View**
 ![Satellite View](https://user-images.githubusercontent.com/88597956/146655022-bf0c3b7e-4288-4af3-a660-cbed7f0ccbf7.png)
 
-Major Earthquakes View
+**Major Earthquakes View**
 ![Major Earthquakes](https://user-images.githubusercontent.com/88597956/146655029-f81ea1e6-3e1b-4875-95ed-472dd517f874.png)
